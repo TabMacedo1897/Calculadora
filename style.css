@@ -1,0 +1,23 @@
+
+body{
+    display: flex;
+    justify-content: center;
+    background-color: aliceblue;
+
+}
+input{
+    height: 30px;
+    width: 238px;
+    background-color:rgb(197, 197, 197);
+    border-width: 6px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.keys{
+    background-color: rgb(252, 158, 16);
+    height: 60px;
+    width: 60px;
+    border-width: 5px;
+    font-weight: bold;
+    font-size: 17px;
+}
